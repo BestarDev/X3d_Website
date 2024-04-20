@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+
+  RewriteRule ^$ public/ [L]
+  RewriteRule (.*) public/$1 [L]
+  
+  # Remove .php-extension from url
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}\.php -f
+  RewriteRule ^([^\.]+)/$ $1.php 
+</IfModule>

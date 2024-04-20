@@ -1,0 +1,53 @@
+{
+  "pageTextData": [
+  {
+    "title": "Coca Cola Great Britain",
+    "subTitle": "Founded in 1886 Dr John S Pemberton",		
+    "description": "The Coca Cola Company is the world's leading manufacturer, marketer and distributor of non-alcoholic beverage concentrates and syrups, and produces nearly 400 brands."
+  },
+  {
+    "title": "Coca Cola",
+    "subTitle": "New York Harbour, 1886",		
+    "description": "It was 1886, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special!"
+  },
+  {
+    "title": "Sprite",
+    "subTitle": "West Germany, 1959",		
+    "description": "First introduced in 1961, crisp, refreshing, clean-tasting Sprite is now the world's leading lemon and lime flavoured soft drink and is sold in more than 190 different countries. Sprite Zero, part of our no sugar Zero range, offers the delicious lemon lime taste of Sprite without the sugar or calories."
+  },
+  {
+    "title": "Dr Pepper",
+    "subTitle": "Texas, 1885",		
+    "description": "Dr Pepper's unique, sparkling blend of 23 fruit flavours has been around for well over a century and it's still the same, with that distinctive flavour you just can't quite put your tongue on. It was created by Texas pharmacist Charles Alderton in 1885. The distinctive, bold taste of Dr Pepper has been popular ever since."
+  },
+  {
+    "x3dModelTitle": "Coca Cola X3D Model",
+    "x3dCreationMethod": "This X3D model of the coke can has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+    "title": "History of Coca Cola",
+    "subTitle": "Atlanta Beginnings",		
+    "description": "It was 1886, and in New York Harbour, workers were constructing the Statue of Liberty. Eight hundred miles away, another great American symbol was about to be unveiled. Like many people who change history, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, he carried it a few doors down to Jacobs' Pharmacy. Here, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special. So Jacobs' Pharmacy put it on sale for five cents (about 3p) a glass."
+  },
+  {
+    "x3dModelTitle": "Sprite X3D Model",
+    "x3dCreationMethod": "This X3D model of the sprite bottle has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+    "title": "Sprite — Fanta Klare Zitrone",
+    "subTitle": "First introduced in 1961",		
+    "description": "Crisp, refreshing, clean-tasting Sprite is now the world's leading lemon and lime flavoured soft drink and is sold in more than 190 different countries. Sprite Zero, part of Coca Cola's no sugar Zero range, offers the delicious lemon lime taste of Sprite without the sugar or calories."
+  },
+      {
+    "x3dModelTitle": "Dr Pepper X3D Model",
+    "x3dCreationMethod": "This X3D model of the pepper cup has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+    "title": "Dr Pepper — Liquid Sunshine",
+    "subTitle": "23 fruit flavours",		
+    "description": "Dr Pepper's unique, sparkling blend of 23 fruit flavours has been around for well over a century and it's still the same, with that distinctive flavour you just can't quite put your tongue on. It was created by Texas pharmacist Charles Alderton in 1885. He gave a sample of the first ever batch to Wade Morrison, a local shop owner, and Mr Morrison instantly agreed to stock the drink. The distinctive, bold taste of Dr Pepper has been popular ever since."
+  },
+  {
+    "galleryTitle": "3D Images",
+    "galleryDescription": "You should consider rendering your 3D Image Gallery objects in 3ds Max 2017 with Mental Ray"
+  },
+  {
+    "CameraTitle": "Camera Views",
+    "CameraSubtitle": "These buttons select a range of X3D model viewpoints"
+  }
+]
+}
